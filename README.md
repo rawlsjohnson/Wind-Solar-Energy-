@@ -48,3 +48,13 @@ Based on my findings, I believe I was able to produce results that could lead to
 - Find better data for a more localized location like a specific wind farm or solar farm
 - Hyperparameter optimization to choose the best parameters for various models
 - Explore weather patterns and influence on Solar and Wind
+
+
+## File Reference List
+
+`time_series_60min_singleindex_filtered (3)` 
+-	Contains all the solar and wind power data used for the project.
+
+`Solar and Wind Energy Prediction.ipynb` 
+-	Final notebook of all my steps(CLEANING,EDA,MODELING)
+
